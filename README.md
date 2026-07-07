@@ -9,4 +9,4 @@ HR metrics.
 • Built visualizations for service years and job levels to understand experience distribution and   
   hierarchy.   
 • Designed a user-friendly and visually structured dashboard for quick decisionmaking by HR  
-  teams.
+  teams
